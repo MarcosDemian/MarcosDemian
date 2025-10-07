@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Marcos Garcia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://marcosdemian.github.io/MarcosPortafolio/icons/logo-d.png" />
+<img align="right" width=300px alt="Unicorn" src="https://marcosdemian.github.io/MarcosPortafolio/assets/img/logo-d.png" />
 
 ***About me*** <a href="https://emoji.gg/emoji/90685-cathug"><img src="https://cdn3.emoji.gg/emojis/90685-cathug.png" width="40px" height="40px" alt="CatHug"></a>
 
